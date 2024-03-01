@@ -1,0 +1,7 @@
+PyPDF2
+transformers
+pytesseract
+torch
+spacy-transformers
+gradio
+https://huggingface.co/spacy/en_core_web_trf/resolve/main/en_core_web_trf-any-py3-none-any.whl
